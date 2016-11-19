@@ -1,0 +1,10 @@
+{
+  "settings": {
+    "port": 'port here'
+  },
+  "hue": {
+    "bridgeIp": "ip here",
+    "userDescription": "Hue Connect",
+    "user": "user id here"
+  }
+}
